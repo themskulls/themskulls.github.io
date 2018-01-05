@@ -1,0 +1,23 @@
+---
+layout: post
+title: Memory
+date: '2014-01-18 10:44:00'
+---
+
+## My memory bank of useful commands and file locations. Maybe you find it useful too.
+
+## Version control
+
+#### SVN recursive revert
+
+svn revert . --recursive 
+
+When? You've done experimental changes and want to make sure you are not going to commit them by accident. 
+
+## File locations
+
+#### Windows host file resides in 
+
+%systemroot%\system32\drivers\etc\ 
+
+When? You want to point your PC to somewhere else than the default.
