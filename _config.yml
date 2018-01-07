@@ -65,7 +65,7 @@ exclude:
   - /example # ignore Basically Basic dev site
 
 # Analytics
-google_analytics: 
+google_analytics: UA-111913107-1
 
 # Front Matter Defaults
 defaults:
