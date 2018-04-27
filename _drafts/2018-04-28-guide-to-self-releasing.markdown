@@ -8,16 +8,14 @@ tags:
 - record
 ---
 
-### Do It Yourself - Guide to self releasing music
-
 Guide to self releasing music
 
-General housekeeping
-* Making your songs
+### General housekeeping
+* Naming
 * Keeping your shit organised
 * Version controlling your music
 
-Tools
+### Tools
 
 Tools - Software
 - Garageband
@@ -39,7 +37,7 @@ Sure - claimed as the trusty workhorse pretty much everyone and their dog are us
 Sure - I found this great inexpensive alternative to record my acoustic guitar
 The cool mic. Well. It does look cool. But I don't really like the soft sound it has. Probably works better for an acoustic project or some soft singing.
 
-Recording a distorted guitar
+### Recording a distorted guitar
 Recording an acoustic guitar
 Recording a bass guitar
 Programming drums
@@ -72,4 +70,4 @@ PR (I really suck at this - but learning!)
 - Editing Spotify, Google Play profiles
 Royalties
 - Britain: PRS, PPL - what the fuck?
-Yes you, may get a few pounds from these if someone picks up your music
+Yes, you may apparently get a few pounds from these if someone picks up your music
