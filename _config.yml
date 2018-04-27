@@ -20,7 +20,7 @@ description: Thoughts.
 baseurl: # the optional subpath of your site, e.g. "/blog"
 url: https://themskulls.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 author:
-  name: Oenos 
+  name: Sami 
   picture:
 github_username: themskulls 
 logo: # path of site logo, e.g. "/assets/images/logo.png"
