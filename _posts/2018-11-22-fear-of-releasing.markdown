@@ -8,7 +8,7 @@ tags:
 - recording
 ---
 
-It was veeeeery uncomfortable for me. To release something as personal as music was daunting especially when I was the only one who contributed to it. What if no-one likes it? What if people _hate_ it? What if I will be publicly criticized?
+It was veeeeery uncomfortable for me. To release something as personal as music I had made alone was daunting. What if no-one likes it? What if people _hate_ it? What if I will be publicly criticized?
 
 Even thinking about it makes me nervous even though I have, now plenty, of music out in the wild.
 
