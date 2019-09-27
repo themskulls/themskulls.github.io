@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The Fear of Releasing
+title: Overocming the Fear of Releasing
 date: '2018-11-22 15:00:00'
 tags:
 - music
